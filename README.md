@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Mandy Jones, a junior in computer science with a minor in Spanish who wants to deepen my expertise and explore opportunities in web development and software engineering. I aim to secure a meaningful internship or entry-level job that will provide hands-on experience and professional connections in the tech industry.</div>  
   
 
@@ -89,6 +84,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
